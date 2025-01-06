@@ -50,3 +50,16 @@ h2,p {
 .button-div{
     text-align: center;
 }
+.scan-button {
+    background-color:#3574fb;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 90%;
+}
+
+.scan-button:hover {
+    background-color: #2a5dca;
+}
